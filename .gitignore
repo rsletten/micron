@@ -1,2 +1,4 @@
 *.bkp
 *.backup
+*.swp
+printer-*.cfg
